@@ -1,4 +1,5 @@
-# SQL-Reports
+# Welcome to my Repository 
+
 Hi there!
 
 Welcome to my repository of SQL projects. I've been working with SQL for a while now so, I figured to put all my projetcs in one place. 
